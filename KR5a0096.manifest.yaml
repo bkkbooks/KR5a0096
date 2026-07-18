@@ -33,7 +33,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5a0096_000.yaml, hash: 'sha256:cb939e8892f93c9a8cd51700859a84e1247fa5700b3496aaa13d91dad6c70f54'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0096_000.markers.yaml, hash: 'sha256:d33747cc107a0d3d9dcd55d7fcfeaefd87879e67a473f778e9a3b0881325ff48'}
+  - {seq: 0, role: markers, filename: assets/KR5a0096_000.markers.yaml, hash: 'sha256:9d28acadf9e2649156c1f2af444f72de292b5de08210e569e5ef434ce345d7b6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -45,7 +45,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:0a0cd30d3e950f4081b399c5cf164977db476fdebd2023a5dc11ac2523f5efe4
+hash: sha256:f1ccd1661b4a841cc01c5d9b550e7ff2f033100f5bef022e0d8c6199f95799e3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
